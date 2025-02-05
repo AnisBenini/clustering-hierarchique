@@ -39,6 +39,4 @@ L'objectif est d'appliquer un clustering hiérarchique afin de regrouper des don
 ## ✨ Auteur
 Ce projet a été réalisé par Anis BENINI.
 
-## 📜 Licence
-Ce projet est sous licence MIT.
 
